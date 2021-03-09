@@ -1,0 +1,12 @@
+{
+  "name": "kanjisearch",
+  "version": "1.0.0",
+  "description": "searches for Kanji in text files",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": ["japanese", "kanji", "studying"],
+  "author": "groggled",
+  "license": "MIT"
+}
